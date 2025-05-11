@@ -1,11 +1,16 @@
 # 拍一張照片或影片
 > https://github.com/user-attachments/assets/88fe9093-f9e2-4fad-848d-3f4d8b1af18c
 
-# ChatGPT生成3D公仔
-> Ness
+# [ChatGPT生成3D公仔](https://chatgpt.com/)
+> 把照片丟進ChatGPT 幫我生成Ness的3D公仔
 ![image](https://github.com/user-attachments/assets/33c0ffc1-b8f5-41dc-a4e2-2d54fe839ced)
 
-> Ada
-![image](https://github.com/user-attachments/assets/fc81d889-8592-48b7-9221-939aafe06e35)
+# [Tripo生成3D圖檔](https://www.tripo3d.ai/app/my)
+> 使用Tripo轉換3D列印可用的附檔名.stl
+![image](https://github.com/user-attachments/assets/5ac9640d-40d4-4a6a-b1ad-63b648fdc8f5)
 
-# Tripo轉換3D列印可用的附檔名.stl
+# 產生STL圖檔下載公仔
+![image](https://github.com/user-attachments/assets/f9eac485-695e-4dab-bba6-785157f2d8e3)
+https://github.com/user-attachments/assets/a62c6982-daf8-4bdd-962e-3d49036fd828
+
+
