@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/33c0ffc1-b8f5-41dc-a4e2-2d54fe839ced)
 
 # [Tripo生成3D圖檔](https://www.tripo3d.ai/app/my)
-> 使用Tripo轉換3D列印可用的附檔名.stl
+使用Tripo轉換3D列印可用的附檔名.stl
 > https://github.com/user-attachments/assets/d705e247-0f32-4276-b6d9-1acbcd9e917e
 ![image](https://github.com/user-attachments/assets/5ac9640d-40d4-4a6a-b1ad-63b648fdc8f5)
 
