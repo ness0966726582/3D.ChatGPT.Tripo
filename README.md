@@ -1,3 +1,5 @@
+# [參考做法->來自NICKKO的頻道](https://www.youtube.com/watch?v=dt6ycGHjLHw) 
+
 # 拍一張照片或影片
 > https://github.com/user-attachments/assets/88fe9093-f9e2-4fad-848d-3f4d8b1af18c
 
