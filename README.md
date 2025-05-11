@@ -2,7 +2,7 @@
 > https://github.com/user-attachments/assets/88fe9093-f9e2-4fad-848d-3f4d8b1af18c
 
 # [ChatGPT生成3D公仔](https://chatgpt.com/)
-> 把照片丟進ChatGPT 幫我生成Ness的3D公仔
+> 把影片或照片丟進ChatGPT幫我生成Ness的3D形象公仔
 ![image](https://github.com/user-attachments/assets/33c0ffc1-b8f5-41dc-a4e2-2d54fe839ced)
 
 # [Tripo生成3D圖檔](https://www.tripo3d.ai/app/my)
